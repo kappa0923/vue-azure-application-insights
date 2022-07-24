@@ -1,5 +1,5 @@
 {
-  "name": "vite-sample",
+  "name": "vue-azure-application-insights",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@microsoft/applicationinsights-web": "^2.8.5",
     "vue": "^3.2.37"
   },
   "devDependencies": {
